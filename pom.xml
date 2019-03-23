@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://3.89.133.185:8081/repository/mph</url>
+        <url>http://3.89.133.185:8081/repository/mph/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://3.89.133.185:8081/repository/mphsnap</url>
+        <url>http://3.89.133.185:8081/repository/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
