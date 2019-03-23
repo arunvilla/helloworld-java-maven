@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>release softx</name>
+        <name>Internal Releases</name>
         <url>http://3.89.133.185:8081/repository/mph/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>snapshot softx</name>
+        <name>Internal Releases</name>
         <url>http://3.89.133.185:8081/repository/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
